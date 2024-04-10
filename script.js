@@ -4,10 +4,10 @@ const button2 = document.getElementById('button2');
 
 // Add click event listener to Button 1
 button1.addEventListener('click', function() {
-    alert('Hello');
+    alert('This works from Dundas');
 });
 
 // Add click event listener to Button 2
 button2.addEventListener('click', function() {
-    alert('Menh');
+    alert('Dundas Catches this');
 });
