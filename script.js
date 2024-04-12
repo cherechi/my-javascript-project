@@ -11,7 +11,7 @@ button1.addEventListener('click', function() {
 button2.addEventListener('click', function() {
     alert('Dundas Catches this');
 });*/
-function(){
+function checkAlert(){
     alert('This works from Dundas');
 
 }
